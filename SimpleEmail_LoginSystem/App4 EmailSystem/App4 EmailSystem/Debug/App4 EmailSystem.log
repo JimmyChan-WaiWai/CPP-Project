@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\chanc\documents\visual studio 2015\projects\app4 emailsystem\app4 emailsystem\main.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  App4 EmailSystem.vcxproj -> C:\Users\chanc\Documents\Visual Studio 2015\Projects\App4 EmailSystem\Debug\App4 EmailSystem.exe
+  App4 EmailSystem.vcxproj -> C:\Users\chanc\Documents\Visual Studio 2015\Projects\App4 EmailSystem\Debug\App4 EmailSystem.pdb (Full PDB)

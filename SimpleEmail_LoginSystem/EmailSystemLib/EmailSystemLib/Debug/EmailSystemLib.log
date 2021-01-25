@@ -1,0 +1,5 @@
+﻿  Lib.cpp
+c:\users\chanc\documents\visual studio 2015\projects\emailsystemlib\emailsystemlib\lib.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\chanc\documents\visual studio 2015\projects\emailsystemlib\emailsystemlib\lib.cpp(132): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\chanc\documents\visual studio 2015\projects\emailsystemlib\emailsystemlib\lib.cpp(189): warning C4018: '<': signed/unsigned mismatch
+  EmailSystemLib.vcxproj -> C:\Users\chanc\Documents\Visual Studio 2015\Projects\EmailSystemLib\Debug\EmailSystemLib.lib
